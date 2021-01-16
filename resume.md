@@ -1,8 +1,8 @@
 # Timothy Roach
 
-Email: tmroach@uw.edu
-LinkedIn: https://www.linkedin.com/in/timothy-roach-b3533814a
-GitHub: https://github.com/tmroach
+- Email: tmroach@uw.edu
+- LinkedIn: https://www.linkedin.com/in/timothy-roach-b3533814a
+- GitHub: https://github.com/tmroach
 
 
 
@@ -12,20 +12,22 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 
 # Selected Programming Experience
 
-**Attendance Tracker** | UW Visitor Center | June 2020 – September 2020
+[<b>Attendance Tracker</b>](https://github.com/tmroach75/AttendanceTracker) | UW Visitor Center | June 2020 – September 2020
 -	Built a .NET Core WPF application to replace the previous attendance tracking tool used by the UW Visitor Center
 -	Used XAML and C# to program the app's functionality
 -	Connected app to an SQLite database to store data on disk, and to allow data to be organized and exported in CSV format
 -	App reduces previous data reporting process from over an hour to a few minutes
 
-![A screenshot of the attendance tracker during runtime](images/attendance_tracker_screenshot.png)
+<img src="images/attendance_tracker_screenshot.png" width="500"/>
 
-**Bitcoin & the US Economy** | Course Capstone | March 2020
+<br></br>
+
+[<b>Bitcoin & the US Economy</b>](https://tmroach75.shinyapps.io/Bitcoin_and_the_US_Economy/) | Course Capstone | March 2020
 -	Developed a data visualization web application to investigate to what extent the S&P 500 affects Bitcoin prices
 -	Wrote a data report in R Markdown to conduct the initial analysis of the data sets
 -	Demonstrated proficiency in version control systems by collaborating with teammates to commit changes and resolve merge conflicts
 
-![A screenshot of the Bitcoin * the US Ecomomy web app](images/bitcoin_economy_screenshot.png)
+<img src="images/bitcoin_economy_screenshot.png" width="500"/>
 
 # Work Experience
 
