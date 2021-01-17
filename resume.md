@@ -26,7 +26,6 @@ Expected Graduation: December 2021
 -	App reduces previous data reporting process from over an hour to a few minutes
 
 <img src="images/attendance_tracker_screenshot.png" width="500"/>
-</br></br>
 
 
 [<b>Bitcoin & the US Economy</b>](https://tmroach75.shinyapps.io/Bitcoin_and_the_US_Economy/) | Course Capstone | March 2020
