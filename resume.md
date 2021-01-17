@@ -8,7 +8,14 @@
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+> I am a senior at the University of Washington majoring in Geography: Data Science with a minor in Informatics. I have experience building applications in Java, C#, Python, and R, and am seeking a software engineering internship to further develop my skills before entering the industy full time.
+
+# Education
+
+**B.A. Geography: Data Science**
+University of Washington -- Seattle, WA
+Expected Graduation: December 2021
+**Relevant Coursework**: Computer Programming I & II, Intermediate Programming, Data Structures & Algorithms, Algorithms & Computational Complexity, Database Systems, Data Wrangling in R, Design Methods, Artificial Intelligence
 
 # Selected Programming Experience
 
